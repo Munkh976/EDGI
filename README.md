@@ -1,0 +1,2 @@
+# EDGI
+EDGI Project
